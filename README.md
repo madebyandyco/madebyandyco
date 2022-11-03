@@ -28,6 +28,7 @@
 - Google Studio / DoubleClick / DV360
 - Spark AR
 - Three JS
+- Phaser JS
 - Maya
 - Cinema 4D
 - Arduino
