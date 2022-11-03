@@ -15,7 +15,14 @@
 <a href="" title="JS" style="margin-right:0.5rem;"><img src="icons/javascript.svg" width="48" height="48" /></a>
 <a href="" title="HTML5" style="margin-right:0.5rem;"><img src="icons/html5.svg" width="48" height="48" /></a>
 <a href="" title="CSS3" style="margin-right:0.5rem;"><img src="icons/css3.svg" width="48" height="48" /></a>
+
 <a href="https://aws.amazon.com/" title="AWS" style="margin-right:0.5rem;"><img src="icons/amazonaws.svg" width="48" height="48" /></a>
+<a href="" title="Git" style="margin-right:0.5rem;"><img src="icons/git.svg" width="48" height="48" /></a>
+<a href="https://code.visualstudio.com/" title="VS Code" style="margin-right:0.5rem;"><img src="icons/visualstudiocode.svg" width="48" height="48" /></a>
+<a href="https://www.npmjs.com/" title="NPM" style="margin-right:0.5rem;"><img src="icons/npm.svg" width="48" height="48" /></a>
+<a href="https://prettier.io/" title="Prettier" style="margin-right:0.5rem;"><img src="icons/prettier.svg" width="48" height="48" /></a>
+<a href="https://www.apple.com/au/macos/" title="macOS" style="margin-right:0.5rem;"><img src="icons/macos.svg" width="48" height="48" /></a>
+<a href="https://www.microsoft.com/en-au/windows" title="Windows" style="margin-right:0.5rem;"><img src="icons/windows.svg" width="48" height="48" /></a>
 
 <a href="https://www.figma.com/" title="Figma"><img src="icons/figma.svg" width="48" height="48" /></a>
 <a href="https://www.adobe.com/au/products/aftereffects.html" title="After Effects"><img src="icons/adobeaftereffects.svg" width="48" height="48" /></a>
