@@ -2,6 +2,7 @@
 
 
 ## Hi, I'm Andy
+I am currently working as a Frontend Developer. I'm enjoying working with modern technologies like Astro, Sanity and Tailwind.
 
 ### I'm currently working with
 <a href="https://astro.build/" title="Astro JS" style="margin-right:0.5rem;"><img src="icons/astro.svg" width="48" height="48" /></a>
