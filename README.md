@@ -19,11 +19,7 @@
 <a href="https://code.visualstudio.com/" title="VS Code" style="margin-right:0.5rem;"><img src="icons/visualstudiocode.svg" width="48" height="48" /></a>
 <a href="https://www.npmjs.com/" title="NPM" style="margin-right:0.5rem;"><img src="icons/npm.svg" width="48" height="48" /></a>
 <a href="https://prettier.io/" title="Prettier" style="margin-right:0.5rem;"><img src="icons/prettier.svg" width="48" height="48" /></a>
-<a href="https://developer.chrome.com/docs/lighthouse/" title="Lighthouse" style="margin-right:0.5rem;"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="lighthouse-light.svg" width="48" height="48">
-  <source media="(prefers-color-scheme: light)" srcset="icons/lighthouse.svg" width="48" height="48">
-  <img src="icons/lighthouse.svg" width="48" height="48">
-</picture></a>
+<a href="https://developer.chrome.com/docs/lighthouse/" title="Lighthouse" style="margin-right:0.5rem;"><img src="icons/lighthouse.svg" width="48" height="48" /></a>
 <a href="https://iterm2.com/" title="iTerm2" style="margin-right:0.5rem;"><img src="icons/iterm2.svg" width="48" height="48" /></a>
 
 <a href="https://www.figma.com/" title="Figma"><img src="icons/figma.svg" width="48" height="48" /></a>
