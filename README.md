@@ -1,6 +1,5 @@
 <a href="https://madebyandy.co/" title="Made by Andy"><img src="mba-logo-loop.gif#gh-light-mode-only" width="333" height="75" /></a>
 
-![Made by Andy]("mba-logo-loop.gif#gh-dark-mode-only" =333x75)
 
 ## Hi, I'm Andy
 
@@ -20,7 +19,7 @@
 <a href="https://code.visualstudio.com/" title="VS Code" style="margin-right:0.5rem;"><img src="icons/visualstudiocode.svg" width="48" height="48" /></a>
 <a href="https://www.npmjs.com/" title="NPM" style="margin-right:0.5rem;"><img src="icons/npm.svg" width="48" height="48" /></a>
 <a href="https://prettier.io/" title="Prettier" style="margin-right:0.5rem;"><img src="icons/prettier.svg" width="48" height="48" /></a>
-<a href="https://developer.chrome.com/docs/lighthouse/" title="Lighthouse" style="margin-right:0.5rem;"><img src="icons/lighthouse-r.svg" width="48" height="48" /></a>
+<a href="https://developer.chrome.com/docs/lighthouse/" title="Lighthouse" style="margin-right:0.5rem;"><img src="icons/lighthouse.svg" width="48" height="48" /></a>
 <a href="https://iterm2.com/" title="iTerm2" style="margin-right:0.5rem;"><img src="icons/iterm2.svg" width="48" height="48" /></a>
 
 <a href="https://www.figma.com/" title="Figma"><img src="icons/figma.svg" width="48" height="48" /></a>
