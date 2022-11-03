@@ -13,14 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Socials
+## Me elsewhere on the web
 
 <a href="https://www.instagram.com/madebyandy.co/" title="Instagram"><img src="icons/instagram.svg" width="48" height="48" /></a>
 <a href="https://blog.madebyandy.co/" title="Visual Inspiration"><img src="icons/tumblr.svg" width="48" height="48" /></a>
 <a href="https://goods.madebyandy.co/" title="Store"><img src="icons/bigcartel.svg" width="48" height="48" /></a>
+<a href="https://www.linkedin.com/in/madebyandyco/" title="Linkedin"><img src="icons/linkedin.svg" width="48" height="48" /></a>
 
 
-### I'm currently working with
+## I'm currently working with
 
 <a href="https://astro.build/" title="Astro JS"><img src="icons/astro.svg" width="48" height="48" /></a>
 <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="icons/tailwindcss.svg" width="48" height="48" /></a>
