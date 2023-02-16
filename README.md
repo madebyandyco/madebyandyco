@@ -2,8 +2,7 @@
 
 
 ## Hi, I'm Andy
-I am currently working as a Frontend Developer.
-Recently I have been enjoying working with modern technologies such as Astro, Sanity and Tailwind.
+A front-end developer and animator with over a decade of agency experience across multiple disciplines, aiming to craft great user experiences, utilising my expertise.
 
 ### I'm currently working with
 <a href="https://astro.build/" title="Astro JS" style="margin-right:0.5rem;"><img src="icons/astro.svg" width="48" height="48" /></a>
