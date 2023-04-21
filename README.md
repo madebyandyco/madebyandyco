@@ -45,6 +45,8 @@ A front-end developer and animator with over a decade of agency experience acros
 - Adobe Flash / Animate
 
 ### Find me elsewhere on the web
+<a href="https://madebyandy.co/" title="Made by Andy" style="margin-right:0.5rem;">Made by Andy website</a><br>
+
 <a href="https://www.instagram.com/madebyandy.co/" title="Instagram" style="margin-right:0.5rem;"><img src="icons/instagram.svg" width="48" height="48" /></a>
 <a href="https://blog.madebyandy.co/" title="Visual Inspiration" style="margin-right:0.5rem;"><img src="icons/tumblr.svg" width="48" height="48" /></a>
 <a href="https://goods.madebyandy.co/" title="Store" style="margin-right:0.5rem;"><img src="icons/bigcartel.svg" width="48" height="48" /></a>
