@@ -2,9 +2,11 @@
 
 
 ## Hi, I'm Andy
-A front-end developer and animator with over a decade of agency experience across multiple disciplines, aiming to craft great user experiences, utilising my expertise.
+A Front-end Developer with over 10 years of experience in the digital industry. I have a strong understanding of JavaScript, HTML and CSS, as well as experience with a variety of front-end frameworks and libraries. Proficient in responsive design and accessibility, with a proven track record of delivering high-quality and user-friendly websites.
 
-### I'm currently working with
+I am confident that I have the skills and experience to be a valuable asset to any team. I am eager to learn new technologies and always looking for new challenges. If you are looking for a Front-end Developer who is passionate about their work and committed to delivering high-quality results, I encourage you to contact me.
+
+### Currently I'm working with
 <a href="https://astro.build/" title="Next.JS" style="margin-right:0.5rem;"><img src="icons/nextjs.svg" width="48" height="48" /></a>
 <a href="https://react.dev/" title="React" style="margin-right:0.5rem;"><img src="icons/react.svg" width="48" height="48" /></a>
 <a href="https://astro.build/" title="Astro JS" style="margin-right:0.5rem;"><img src="icons/astro.svg" width="48" height="48" /></a>
@@ -30,7 +32,7 @@ A front-end developer and animator with over a decade of agency experience acros
 <a href="https://www.adobe.com/au/products/photoshop.html" title="Photoshop"><img src="icons/adobephotoshop.svg" width="48" height="48" /></a>
 
 
-### I've previously worked with
+### Previously I've worked with
 - Google Studio / DoubleClick / DV360
 - Spark AR
 - Three JS
