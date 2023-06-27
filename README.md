@@ -24,7 +24,6 @@ A front-end developer and animator with over a decade of agency experience acros
 <a href="https://prettier.io/" title="Prettier" style="margin-right:0.5rem;"><img src="icons/prettier.svg" width="48" height="48" /></a>
 
 <a href="https://developer.chrome.com/docs/lighthouse/" title="Lighthouse" style="margin-right:0.5rem;"><img src="icons/lighthouse.svg" width="48" height="48" /></a>
-<a href="https://iterm2.com/" title="iTerm2" style="margin-right:0.5rem;"><img src="icons/iterm2.svg" width="48" height="48" /></a>
 <a href="https://www.figma.com/" title="Figma"><img src="icons/figma.svg" width="48" height="48" /></a>
 <a href="https://www.adobe.com/au/products/aftereffects.html" title="After Effects"><img src="icons/adobeaftereffects.svg" width="48" height="48" /></a>
 <a href="https://www.adobe.com/au/products/illustrator.html" title="Illustrator"><img src="icons/adobeillustrator.svg" width="48" height="48" /></a>
