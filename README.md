@@ -7,9 +7,9 @@ A Front-end Developer with over 10 years of experience in the digital industry. 
 I am confident that I have the skills and experience to be a valuable asset to any team. I am eager to learn new technologies and always looking for new challenges. If you are looking for a Front-end Developer who is passionate about their work and committed to delivering high-quality results, I encourage you to contact me.
 
 ### Currently I'm working with
-<a href="https://astro.build/" title="Next.JS" style="margin-right:0.5rem;"><img src="icons/nextjs.svg" width="48" height="48" /></a>
-<a href="https://react.dev/" title="React" style="margin-right:0.5rem;"><img src="icons/react.svg" width="48" height="48" /></a>
 <a href="https://astro.build/" title="Astro JS" style="margin-right:0.5rem;"><img src="icons/astro.svg" width="48" height="48" /></a>
+<a href="https://nextjs.org/" title="Next.JS" style="margin-right:0.5rem;"><img src="icons/nextjs.svg" width="48" height="48" /></a>
+<a href="https://react.dev/" title="React" style="margin-right:0.5rem;"><img src="icons/react.svg" width="48" height="48" /></a>
 <a href="https://tailwindcss.com/" title="Tailwind CSS" style="margin-right:0.5rem;"><img src="icons/tailwindcss.svg" width="48" height="48" /></a>
 <a href="https://www.sanity.io/" title="Sanity" style="margin-right:0.5rem;"><img src="icons/sanity.svg" width="48" height="48" /></a>
 <a href="" title="JS" style="margin-right:0.5rem;"><img src="icons/javascript.svg" width="48" height="48" /></a>
