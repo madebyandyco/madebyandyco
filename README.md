@@ -11,7 +11,6 @@ I am confident that I have the skills and experience to be a valuable asset to a
 <a href="https://nextjs.org/" title="Next.JS" style="margin-right:0.5rem;"><img src="icons/nextjs.svg" width="48" height="48" /></a>
 <a href="https://react.dev/" title="React" style="margin-right:0.5rem;"><img src="icons/react.svg" width="48" height="48" /></a>
 <a href="https://tailwindcss.com/" title="Tailwind CSS" style="margin-right:0.5rem;"><img src="icons/tailwindcss.svg" width="48" height="48" /></a>
-<a href="https://www.sanity.io/" title="Sanity" style="margin-right:0.5rem;"><img src="icons/sanity.svg" width="48" height="48" /></a>
 <a href="" title="JS" style="margin-right:0.5rem;"><img src="icons/javascript.svg" width="48" height="48" /></a>
 <a href="" title="HTML5" style="margin-right:0.5rem;"><img src="icons/html5.svg" width="48" height="48" /></a>
 <a href="" title="CSS3" style="margin-right:0.5rem;"><img src="icons/css3.svg" width="48" height="48" /></a>
@@ -20,7 +19,6 @@ I am confident that I have the skills and experience to be a valuable asset to a
 <a href="https://aws.amazon.com/" title="AWS" style="margin-right:0.5rem;"><img src="icons/amazonaws.svg" width="48" height="48" /></a>
 <a href="" title="Git" style="margin-right:0.5rem;"><img src="icons/git.svg" width="48" height="48" /></a>
 <a href="https://github.com/" title="Github" style="margin-right:0.5rem;"><img src="icons/github.svg" width="48" height="48" /></a>
-<a href="https://bitbucket.org/" title="Bitbucket" style="margin-right:0.5rem;"><img src="icons/bitbucket.svg" width="48" height="48" /></a>
 <a href="https://code.visualstudio.com/" title="VS Code" style="margin-right:0.5rem;"><img src="icons/visualstudiocode.svg" width="48" height="48" /></a>
 <a href="https://www.npmjs.com/" title="NPM" style="margin-right:0.5rem;"><img src="icons/npm.svg" width="48" height="48" /></a>
 <a href="https://prettier.io/" title="Prettier" style="margin-right:0.5rem;"><img src="icons/prettier.svg" width="48" height="48" /></a>
