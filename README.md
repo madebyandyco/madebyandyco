@@ -2,20 +2,18 @@
 
 
 ## Hi, I'm Andy
-A Front-end Developer with over 10 years of experience in the digital industry. I have a strong understanding of JavaScript, HTML and CSS, as well as experience with a variety of front-end frameworks and libraries. Proficient in responsive design and accessibility, with a proven track record of delivering high-quality and user-friendly websites.
+A Front-end Developer and Creative Technologist with over 15 years of experience in the digital industry. I have a strong understanding of JavaScript, HTML and CSS, and experience with a variety of frameworks, libraries and technologies. Proficient in responsive design and accessibility, with a proven track record of delivering high-quality and user-friendly websites.
 
 I am confident that I have the skills and experience to be a valuable asset to any team. I am eager to learn new technologies and always looking for new challenges. If you are looking for a Front-end Developer who is passionate about their work and committed to delivering high-quality results, I encourage you to contact me.
 
 ### Currently I'm working with
 <a href="https://astro.build/" title="Astro JS" style="margin-right:0.5rem;"><img src="icons/astro.svg" width="48" height="48" /></a>
-<a href="https://nextjs.org/" title="Next.JS" style="margin-right:0.5rem;"><img src="icons/nextjs.svg" width="48" height="48" /></a>
 <a href="https://react.dev/" title="React" style="margin-right:0.5rem;"><img src="icons/react.svg" width="48" height="48" /></a>
 <a href="https://tailwindcss.com/" title="Tailwind CSS" style="margin-right:0.5rem;"><img src="icons/tailwindcss.svg" width="48" height="48" /></a>
 <a href="" title="JS" style="margin-right:0.5rem;"><img src="icons/javascript.svg" width="48" height="48" /></a>
 <a href="" title="HTML5" style="margin-right:0.5rem;"><img src="icons/html5.svg" width="48" height="48" /></a>
 <a href="" title="CSS3" style="margin-right:0.5rem;"><img src="icons/css3.svg" width="48" height="48" /></a>
 
-<a href="https://greensock.com/gsap/" title="GSAP" style="margin-right:0.5rem;"><img src="icons/greensock.svg" width="48" height="48" /></a>
 <a href="https://aws.amazon.com/" title="AWS" style="margin-right:0.5rem;"><img src="icons/amazonaws.svg" width="48" height="48" /></a>
 <a href="" title="Git" style="margin-right:0.5rem;"><img src="icons/git.svg" width="48" height="48" /></a>
 <a href="https://github.com/" title="Github" style="margin-right:0.5rem;"><img src="icons/github.svg" width="48" height="48" /></a>
@@ -33,6 +31,7 @@ I am confident that I have the skills and experience to be a valuable asset to a
 ### Previously I've worked with
 - Google Studio / DoubleClick / DV360
 - Spark AR
+- Next JS
 - Three JS
 - Phaser JS
 - Maya
@@ -40,6 +39,7 @@ I am confident that I have the skills and experience to be a valuable asset to a
 - Arduino
 - P5 JS
 - Raspberry Pi
+- Greensock
 - FFMpeg
 - Python
 - Adobe Flash / Animate
