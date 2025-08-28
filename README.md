@@ -28,20 +28,19 @@ I am confident that I have the skills and experience to be a valuable asset to a
 <a href="https://www.adobe.com/au/products/photoshop.html" title="Photoshop"><img src="icons/adobephotoshop.svg" width="48" height="48" /></a>
 
 
-### Previously I've worked with
-- Google Studio / DoubleClick / DV360
-- Spark AR
+### Tools/libraries I've previously used
 - Next JS
 - Three JS
 - Phaser JS
-- Maya
-- Cinema 4D
-- Arduino
 - P5 JS
-- Raspberry Pi
-- Greensock
 - FFMpeg
+- Cinema 4D / Maya
+- Arduino
+- Raspberry Pi
 - Python
+- Greensock
+- Spark AR
+- Google Studio / DoubleClick / DV360
 - Adobe Flash / Animate
 
 ### Find me elsewhere on the web
