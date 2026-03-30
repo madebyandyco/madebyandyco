@@ -10,25 +10,23 @@ I work primarily in JavaScript across the full stack: Node.js for automation and
 ### Currently building with
 
 #### Front-end
-<a href="https://astro.build/" title="Astro JS" style="margin-right:0.5rem;"><img src="icons/astro.svg" width="48" height="48" /></a>
-<a href="https://react.dev/" title="React" style="margin-right:0.5rem;"><img src="icons/react.svg" width="48" height="48" /></a>
-<a href="https://tailwindcss.com/" title="Tailwind CSS" style="margin-right:0.5rem;"><img src="icons/tailwindcss.svg" width="48" height="48" /></a>
-<a href="" title="JavaScript" style="margin-right:0.5rem;"><img src="icons/javascript.svg" width="48" height="48" /></a>
-<a href="" title="HTML5" style="margin-right:0.5rem;"><img src="icons/html5.svg" width="48" height="48" /></a>
-<a href="" title="CSS3" style="margin-right:0.5rem;"><img src="icons/css3.svg" width="48" height="48" /></a>
+- Astro JS
+- React
+- Tailwind CSS
+- JavaScript
+- HTML5
+- CSS3
 
 #### Back-end & Automation
-<a href="https://nodejs.org/" title="Node.js" style="margin-right:0.5rem;"><img src="icons/nodedotjs.svg" width="48" height="48" /></a>
-<a href="https://developers.google.com/apps-script" title="Google Apps Script" style="margin-right:0.5rem;"><img src="icons/google.svg" width="48" height="48" /></a>
-<a href="https://pm2.keymetrics.io/" title="PM2" style="margin-right:0.5rem;"><img src="icons/pm2.svg" width="48" height="48" /></a>
+- Node.js
+- Google Apps Script
+- PM2
 
 #### Tooling & Infrastructure
-<a href="https://aws.amazon.com/" title="AWS" style="margin-right:0.5rem;"><img src="icons/amazonaws.svg" width="48" height="48" /></a>
-<a href="" title="Git" style="margin-right:0.5rem;"><img src="icons/git.svg" width="48" height="48" /></a>
-<a href="https://github.com/" title="Github" style="margin-right:0.5rem;"><img src="icons/github.svg" width="48" height="48" /></a>
-<a href="https://code.visualstudio.com/" title="VS Code" style="margin-right:0.5rem;"><img src="icons/visualstudiocode.svg" width="48" height="48" /></a>
-<a href="https://www.npmjs.com/" title="NPM" style="margin-right:0.5rem;"><img src="icons/npm.svg" width="48" height="48" /></a>
-<a href="https://www.figma.com/" title="Figma"><img src="icons/figma.svg" width="48" height="48" /></a>
+- AWS / Cloudflare
+- Git
+- VS Code
+- NPM
 
 ### Also in the toolkit
 - PWA development (Leaflet.js, Google Identity Services, Google Drive integration)
@@ -37,7 +35,7 @@ I work primarily in JavaScript across the full stack: Node.js for automation and
 - Puppeteer / browser automation
 - Google Workspace tooling (Sheets, Chat, Drive APIs)
 - Next.js, Three.js, Phaser.js, P5.js, GSAP
-- Cinema 4D, After Effects, Illustrator, Photoshop
+- Figma
 - Arduino, Raspberry Pi
 
 ### Find me elsewhere
