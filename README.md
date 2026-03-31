@@ -17,9 +17,9 @@
   - **Logistics driver PWA** — offline-capable mobile delivery app with Google Sign-In, real-time Sheets sync, GPS-tagged proof-of-delivery photos and Leaflet map view
   - **Container status board** — live shipping operations dashboard with automatic status derivation and auto-refresh, backed by Google Sheets
   - **PDF watermark Chrome extension** — Manifest V3 extension for bulk PDF processing with progress tracking (pdf-lib)
-  - **Google Sheets automation** — Apps Script runsheet processors and safety compliance tooling for logistics operations
+  - **Google Sheets automation** — Apps Script runsheet processors integrating live carrier tracking (BEX, Mainfreight, DHL, MRL Global) and automated Twilio SMS dispatch notifications, plus pre-start safety compliance tracking with automated weekly reporting
 
-  ### Built with
+  ### Building with
 
   #### Front-end
   - Vanilla JavaScript
@@ -39,7 +39,11 @@
   - Google Workspace (Sheets, Drive, Apps Script)
   - Bybit API
   - Google Maps API
-  - EziShipping
+  - EziShipping  (MRL Global)
+  - Twilio (SMS)
+  - Border Express Tracking API
+  - Mainfreight Tracking API
+  - DHL Express Tracking API
 
   #### Tooling & Infrastructure
   - AWS / Cloudflare / Render
