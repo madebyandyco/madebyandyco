@@ -8,7 +8,7 @@
   I work primarily in JavaScript across the full stack: Node.js for server-side work and automation, vanilla JS for lightweight modular frontends, and Google Apps Script for business process tooling that actually gets used.
 
   ### Currently building
-  Operational and fintech tooling — real software used daily in production:
+  Operational and fintech tooling, real software used daily in production:
   - **Delta-neutral funding rate bot** — automated perpetual futures arbitrage with live dashboard, position tracking and configurable risk management (CCXT, Node.js, Express)
   - **Driver logistics PWA** — offline-capable mobile delivery app with Google Sign-In, real-time Sheets sync, GPS-tagged proof-of-delivery photos and map navigation routing
   - **Container status board** — live shipping operations dashboard displaying current status, backed by Google Sheets
