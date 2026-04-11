@@ -36,7 +36,7 @@
   - Google Maps API
   - Twilio (SMS)
   - EziShipping / Border Express / Mainfreight / DHL Tracking API
-  - Binacce / Bybit / Polymarket API
+  - Binance / Bybit / Polymarket API
 
   #### Tooling & Infrastructure
   - AWS / Cloudflare / Render
