@@ -5,7 +5,7 @@
   ## Hi, I'm Andy
   Technical Lead and Creative Technologist with 15+ years in the digital industry. I build things that sit at the intersection of design and engineering, from polished front-end experiences to backend automation, logistics tooling and fintech software.
 
-  I work primarily in JavaScript across the full stack: Node.js for server-side work and automation, vanilla JS for lightweight modular frontends, and Google Apps Script for business process tooling that actually gets used.
+  I work primarily with JavaScript: Node.js for server-side work and automation, vanilla JS for lightweight frontends, and Google Apps Script for business process tooling that actually gets used.
 
   ### Currently building
   Operational and fintech tooling, real software used daily in production:
