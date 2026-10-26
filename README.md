@@ -6,7 +6,7 @@
 
 I'm a software developer embedded in warehouse operations. As warehouse supervisor, I lead a small team, run interstate logistics, and manage stock across a 2,000+ SKU operation. I also build the tools that cut out errors and repetitive manual work.
 
-After a decade as a developer, I moved into warehousing to see the whole system from the inside. Most of the friction I've found sits between platforms: stock counts that don't match, handoffs that drop, data keyed in by hand. I find those gaps and build the fixes.
+After a decade as a developer, I moved into warehousing to see the whole system from the inside. Most of the friction I've found sits between platforms: stock counts that don't match, handoffs that drop, data keyed in by hand. I find the gaps and build the fixes.
 
 ### What I've recently built
 
